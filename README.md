@@ -15,4 +15,4 @@ The answers to the questions in this week's exercise should be given by modifyin
 There are 2 problems for this week
 
  - [Problem 1: Converting math to Python (8.5 points)](Exercise-1-problem-1.ipynb)
- - [Problem 2: Visualizing uncertainty](Exercise-1-problem-2.ipynb)
+ - [Problem 2: Visualizing uncertainty (11.5 points)](Exercise-1-problem-2.ipynb)
