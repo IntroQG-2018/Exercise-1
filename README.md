@@ -7,7 +7,7 @@ For each problem you need to modify the given notebook, and then upload your fil
 The answers to the questions in this week's exercise should be given by modifying the document in places where asked.
 
 - **Exercise 1 is due by the start of class on on 5.11.**
-- Don't forget to check out [the hints for this week's exercise](https://introqg.github.io/qg/lessons/L8/exercise-8-hints.html) if you're having trouble.
+- Don't forget to check out [the hints for this week's exercise](https://introqg.github.io/qg/lessons/L1/exercise-1.html) if you're having trouble.
 - Scores on this exercise are out of 20 points.
 
 ## Start working
