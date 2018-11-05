@@ -12,7 +12,10 @@ The answers to the questions in this week's exercise should be given by modifyin
 
 ## Start working
 
-There are 2 problems for this week
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/introqg/notebooks/master?urlpath=lab)
+[![CSC Notebooks](https://img.shields.io/badge/launch-CSC%20notebook-blue.svg)](https://notebooks.csc.fi/#/blueprint/80cecffe7ad84d6d94665f39887b3a32)
+
+There are 2 problems for this week:
 
  - [Problem 1: Converting math to Python (8.5 points)](Exercise-1-problem-1.ipynb)
  - [Problem 2: Visualizing uncertainty (11.5 points)](Exercise-1-problem-2.ipynb)
